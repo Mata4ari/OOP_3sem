@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfComputer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computer>
+    <Cost>111</Cost>
+    <Name>asus</Name>
+  </Computer>
+  <Computer>
+    <Cost>252</Cost>
+    <Name>huawei</Name>
+  </Computer>
+  <Computer>
+    <Cost>555</Cost>
+    <Name>lenovo</Name>
+  </Computer>
+</ArrayOfComputer>
