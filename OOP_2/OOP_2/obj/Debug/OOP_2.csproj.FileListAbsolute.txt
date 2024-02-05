@@ -1,0 +1,8 @@
+D:\project\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.AssemblyReference.cache
+D:\project\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.SuggestedBindingRedirects.cache
+D:\project\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+D:\project\OOP_2\OOP_2\bin\Debug\OOP_2.exe.config
+D:\project\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+D:\project\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+D:\project\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+D:\project\OOP_2\OOP_2\obj\Debug\OOP_2.pdb
