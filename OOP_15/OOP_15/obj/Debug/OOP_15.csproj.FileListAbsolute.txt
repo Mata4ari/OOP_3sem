@@ -1,0 +1,8 @@
+D:\project\OOP_15\OOP_15\bin\Debug\OOP_15.exe.config
+D:\project\OOP_15\OOP_15\bin\Debug\OOP_15.exe
+D:\project\OOP_15\OOP_15\bin\Debug\OOP_15.pdb
+D:\project\OOP_15\OOP_15\obj\Debug\OOP_15.csproj.AssemblyReference.cache
+D:\project\OOP_15\OOP_15\obj\Debug\OOP_15.csproj.SuggestedBindingRedirects.cache
+D:\project\OOP_15\OOP_15\obj\Debug\OOP_15.csproj.CoreCompileInputs.cache
+D:\project\OOP_15\OOP_15\obj\Debug\OOP_15.exe
+D:\project\OOP_15\OOP_15\obj\Debug\OOP_15.pdb
