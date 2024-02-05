@@ -1,0 +1,11 @@
+D:\project\OOP_11\OOP_11\bin\Debug\OOP_11.exe.config
+D:\project\OOP_11\OOP_11\bin\Debug\OOP_11.exe
+D:\project\OOP_11\OOP_11\bin\Debug\OOP_11.pdb
+D:\project\OOP_11\OOP_11\obj\Debug\OOP_11.csproj.AssemblyReference.cache
+D:\project\OOP_11\OOP_11\obj\Debug\OOP_11.csproj.SuggestedBindingRedirects.cache
+D:\project\OOP_11\OOP_11\obj\Debug\OOP_11.csproj.CoreCompileInputs.cache
+D:\project\OOP_11\OOP_11\obj\Debug\OOP_11.exe
+D:\project\OOP_11\OOP_11\obj\Debug\OOP_11.pdb
+D:\project\OOP_11\OOP_11\bin\Debug\Newtonsoft.Json.dll
+D:\project\OOP_11\OOP_11\bin\Debug\Newtonsoft.Json.xml
+D:\project\OOP_11\OOP_11\obj\Debug\OOP_11.csproj.CopyComplete
