@@ -1,0 +1,8 @@
+D:\project\OOP_9\OOP_9\bin\Debug\OOP_9.exe.config
+D:\project\OOP_9\OOP_9\bin\Debug\OOP_9.exe
+D:\project\OOP_9\OOP_9\bin\Debug\OOP_9.pdb
+D:\project\OOP_9\OOP_9\obj\Debug\OOP_9.csproj.AssemblyReference.cache
+D:\project\OOP_9\OOP_9\obj\Debug\OOP_9.csproj.SuggestedBindingRedirects.cache
+D:\project\OOP_9\OOP_9\obj\Debug\OOP_9.csproj.CoreCompileInputs.cache
+D:\project\OOP_9\OOP_9\obj\Debug\OOP_9.exe
+D:\project\OOP_9\OOP_9\obj\Debug\OOP_9.pdb

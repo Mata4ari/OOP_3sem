@@ -1,0 +1,8 @@
+D:\project\OOP_8\OOP_8\bin\Debug\OOP_8.exe.config
+D:\project\OOP_8\OOP_8\bin\Debug\OOP_8.exe
+D:\project\OOP_8\OOP_8\bin\Debug\OOP_8.pdb
+D:\project\OOP_8\OOP_8\obj\Debug\OOP_8.csproj.AssemblyReference.cache
+D:\project\OOP_8\OOP_8\obj\Debug\OOP_8.csproj.SuggestedBindingRedirects.cache
+D:\project\OOP_8\OOP_8\obj\Debug\OOP_8.csproj.CoreCompileInputs.cache
+D:\project\OOP_8\OOP_8\obj\Debug\OOP_8.exe
+D:\project\OOP_8\OOP_8\obj\Debug\OOP_8.pdb
