@@ -1,0 +1,351 @@
+21.11.2023 10:50:11 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064500736
+21.11.2023 10:50:11 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+21.11.2023 10:50:11 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+21.11.2023 10:50:11 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+22.11.2023 13:24:55 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064500736
+22.11.2023 13:24:55 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+22.11.2023 13:24:55 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+22.11.2023 13:24:55 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+22.11.2023 13:24:55 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+22.11.2023 13:24:55 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+22.11.2023 13:24:55 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+22.11.2023 13:24:55 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+22.11.2023 13:24:55 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+22.11.2023 13:24:55 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+22.11.2023 13:24:55 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+22.11.2023 13:24:55 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+22.11.2023 13:24:55 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+22.11.2023 15:49:08 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064492544
+22.11.2023 15:49:08 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+22.11.2023 15:49:08 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+22.11.2023 15:49:08 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+22.11.2023 15:49:08 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+22.11.2023 15:49:08 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+22.11.2023 15:49:08 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+22.11.2023 15:49:08 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+22.11.2023 15:49:08 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+22.11.2023 15:49:08 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:49:36 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064496640
+24.11.2023 15:49:36 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:49:36 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:49:36 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:49:36 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:49:36 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:49:36 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:49:36 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:49:36 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:49:36 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:50:00 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064492544
+24.11.2023 15:50:00 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:50:00 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:50:00 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:50:00 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:50:00 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:50:00 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:50:00 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 15:51:48 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064492544
+24.11.2023 15:51:48 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:51:48 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:51:48 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:51:48 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:51:48 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:51:48 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:51:48 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:51:48 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:46:49 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064500736
+24.11.2023 15:46:49 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:46:49 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:46:49 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:46:49 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:46:49 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:46:49 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:46:49 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:46:49 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:46:49 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:46:49 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 15:46:49 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:46:49 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 15:49:08 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064492544
+24.11.2023 15:49:08 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:49:08 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:49:08 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:49:08 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:49:08 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:49:08 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:49:08 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:49:08 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:49:08 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:49:36 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064496640
+24.11.2023 15:49:36 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:49:36 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:49:36 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:49:36 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:49:36 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:49:36 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:49:36 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:49:36 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:49:36 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:50:00 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064492544
+24.11.2023 15:50:00 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:50:00 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:50:00 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:50:00 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:50:00 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:50:00 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:50:00 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:50:00 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 15:51:48 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064492544
+24.11.2023 15:51:48 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:51:48 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:51:48 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:51:48 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:51:48 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:51:48 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:51:48 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:51:48 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:51:48 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:52:24 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064488448
+24.11.2023 15:52:24 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:52:24 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:52:24 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:52:24 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:52:24 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:52:24 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:52:24 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:52:24 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:52:24 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:53:04 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064492544
+24.11.2023 15:53:04 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:53:04 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:53:04 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:53:04 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:53:04 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:53:04 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:53:04 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:53:04 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:53:04 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:54:42 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064484352
+24.11.2023 15:54:42 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:54:42 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:54:42 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:54:42 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:54:42 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:54:42 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:54:42 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:54:42 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:54:42 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:54:42 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 15:54:42 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:54:42 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 15:55:36 - Действие: ExecuteActions, Детали: User entered file extension: D:\ins
+24.11.2023 15:55:56 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064480256
+24.11.2023 15:55:56 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:55:56 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:55:56 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:55:56 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:55:56 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:55:56 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:55:56 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:55:56 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:55:56 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:55:56 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 15:55:56 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:55:56 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 15:56:02 - Действие: ExecuteActions, Детали: User entered file extension: hjk.txt
+24.11.2023 15:56:02 - Действие: ExecuteActions, Детали: Copied files with extension: hjk.txt to directory: D:\MMEfiles
+24.11.2023 15:56:02 - Действие: ExecuteActions, Детали: Created archive: D:\MMEInspect\MMEfiles.zip
+24.11.2023 15:56:02 - Действие: ExecuteActions, Детали: Extracted archive: D:\MMEInspect\MMEfiles.zip to directory: D:\MMEdestination
+24.11.2023 15:59:30 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064472064
+24.11.2023 15:59:30 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:59:30 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:59:30 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:59:30 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:59:30 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:59:30 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:59:30 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:59:30 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:59:30 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:59:30 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 15:59:30 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:59:30 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 15:59:33 - Действие: ExecuteActions, Детали: User entered file extension: .txt
+24.11.2023 15:59:33 - Действие: ExecuteActions, Детали: Copied files with extension: .txt to directory: D:\MMEfiles
+24.11.2023 15:59:54 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064476160
+24.11.2023 15:59:54 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 15:59:54 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 15:59:54 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 15:59:54 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 15:59:54 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 15:59:54 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 15:59:54 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 15:59:54 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 15:59:54 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:59:54 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 15:59:54 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 15:59:54 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 16:00:03 - Действие: ExecuteActions, Детали: User entered file extension: D:\OOP
+24.11.2023 16:00:32 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064467968
+24.11.2023 16:00:32 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 16:00:32 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 16:00:32 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 16:00:32 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 16:00:32 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 16:00:32 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 16:00:32 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 16:00:46 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064472064
+24.11.2023 16:00:46 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 16:00:46 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 16:00:46 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 16:00:46 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 16:00:46 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 16:00:46 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 16:00:46 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 16:01:07 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 16:01:32 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:02:02 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 16:02:08 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:02:16 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 16:04:49 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064439296
+24.11.2023 16:04:49 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 16:04:49 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 16:04:49 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 16:04:49 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 16:04:49 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 16:04:49 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 16:04:49 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 16:04:49 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 16:04:49 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:04:49 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 16:04:49 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:04:49 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 16:05:00 - Действие: ExecuteActions, Детали: User entered file extension: .txt
+24.11.2023 16:05:00 - Действие: ExecuteActions, Детали: Copied files with extension: .txt to directory: D:\MMEfiles
+24.11.2023 16:05:00 - Действие: ExecuteActions, Детали: Created archive: D:\MMEInspect\MMEfiles.zip
+24.11.2023 16:05:00 - Действие: ExecuteActions, Детали: Extracted archive: D:\MMEInspect\MMEfiles.zip to directory: D:\MMEdestination
+24.11.2023 16:05:16 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064443392
+24.11.2023 16:05:16 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 16:05:16 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 16:05:16 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 16:05:16 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 16:05:16 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 16:05:16 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 16:05:16 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 16:05:16 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 16:05:16 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:05:16 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 16:05:16 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:05:16 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 16:05:37 - Действие: ExecuteActions, Детали: User entered file extension: txt
+24.11.2023 16:05:37 - Действие: ExecuteActions, Детали: Copied files with extension: txt to directory: D:\MMEfiles
+24.11.2023 16:05:37 - Действие: ExecuteActions, Детали: Created archive: D:\MMEInspect\MMEfiles.zip
+24.11.2023 16:05:37 - Действие: ExecuteActions, Детали: Extracted archive: D:\MMEInspect\MMEfiles.zip to directory: D:\MMEdestination
+24.11.2023 16:11:06 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064414720
+24.11.2023 16:11:06 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 16:11:06 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 16:11:06 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 16:11:06 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 16:11:06 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 16:11:06 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 16:11:06 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 16:11:06 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 16:11:06 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:11:06 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 16:11:06 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:11:06 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 16:11:10 - Действие: ExecuteActions, Детали: User entered file extension: txt
+24.11.2023 16:11:10 - Действие: ExecuteActions, Детали: Copied files with extension: txt to directory: D:\MMEfiles
+24.11.2023 16:11:10 - Действие: ExecuteActions, Детали: Created archive: D:\MMEInspect\MMEfiles.zip
+24.11.2023 16:11:10 - Действие: ExecuteActions, Детали: Extracted archive: D:\MMEInspect\MMEfiles.zip to directory: D:\MMEdestination
+24.11.2023 16:11:57 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064422912
+24.11.2023 16:11:57 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 16:11:57 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 16:11:57 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 16:11:57 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 16:11:57 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 16:11:57 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 16:11:57 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 16:11:57 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 16:11:57 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:12:17 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166064410624
+24.11.2023 16:12:17 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 16:12:17 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 16:12:17 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 16:12:17 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 16:12:17 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 16:12:17 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 16:12:17 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 16:12:17 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 16:12:17 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:12:17 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 16:12:17 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 16:12:17 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 16:12:19 - Действие: ExecuteActions, Детали: User entered file extension: txt
+24.11.2023 16:12:19 - Действие: ExecuteActions, Детали: Copied files with extension: txt to directory: D:\MMEfiles
+24.11.2023 16:12:19 - Действие: ExecuteActions, Детали: Created archive: D:\MMEInspect\MMEfiles.zip
+24.11.2023 16:12:19 - Действие: ExecuteActions, Детали: Extracted archive: D:\MMEInspect\MMEfiles.zip to directory: D:\MMEdestination
+24.11.2023 19:34:05 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166063296512
+24.11.2023 19:34:05 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 19:34:05 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 19:34:05 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 19:34:05 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 19:34:05 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 19:34:05 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 19:34:05 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 19:34:05 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 19:34:05 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 19:34:05 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 19:34:05 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 19:34:05 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 19:34:07 - Действие: ExecuteActions, Детали: User entered file extension: txt
+24.11.2023 19:34:07 - Действие: ExecuteActions, Детали: Copied files with extension: txt to directory: D:\MMEfiles
+24.11.2023 19:34:07 - Действие: ExecuteActions, Детали: Created archive: D:\MMEInspect\MMEfiles.zip
+24.11.2023 19:34:07 - Действие: ExecuteActions, Детали: Extracted archive: D:\MMEInspect\MMEfiles.zip to directory: D:\MMEdestination
+24.11.2023 19:34:25 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166063300608
+24.11.2023 19:34:25 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 19:34:25 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 19:34:25 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 19:34:25 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 19:34:25 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 19:34:25 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 19:34:25 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 19:34:25 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 19:34:25 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 19:34:25 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 19:34:25 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 19:34:25 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 19:34:28 - Действие: ExecuteActions, Детали: User entered file extension: txt
+24.11.2023 19:34:28 - Действие: ExecuteActions, Детали: Copied files with extension: txt to directory: D:\MMEfiles
+24.11.2023 19:34:28 - Действие: ExecuteActions, Детали: Created archive: D:\MMEInspect\MMEfiles.zip
+24.11.2023 19:34:28 - Действие: ExecuteActions, Детали: Extracted archive: D:\MMEInspect\MMEfiles.zip to directory: D:\MMEdestination
+24.11.2023 20:24:41 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166063292416
+24.11.2023 20:24:41 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 20:24:41 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 20:24:41 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 20:24:41 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 20:24:41 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 20:24:41 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 20:24:41 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 20:24:41 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 20:24:41 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 20:24:41 - Действие: ExecuteActions, Детали: Copied and renamed file: D:\MMEInspect\MMEdirinfo.txt to D:\MMEdirinfo_copy.txt
+24.11.2023 20:24:41 - Действие: ExecuteActions, Детали: Deleted file: D:\MMEInspect\MMEdirinfo.txt
+24.11.2023 20:24:41 - Действие: ExecuteActions, Детали: Created directory: D:\MMEfiles
+24.11.2023 20:33:41 - Действие: GetFreeSpace, Детали: Диск: D: свободно: 166063296512
+24.11.2023 20:33:41 - Действие: GetFileSystem, Детали: Диск: D: файлова система:NTFS
+24.11.2023 20:33:41 - Действие: GetAllDrivesInfo, Детали: Диск: C:\
+24.11.2023 20:33:41 - Действие: GetAllDrivesInfo, Детали: Диск: D:\
+24.11.2023 20:33:41 - Действие: PrintFullPath, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, полный путь D:\lab\KYR\KYRlab2\1_1.html
+24.11.2023 20:33:41 - Действие: PrintFileInfo, Детали: Файл: D:\lab\KYR\KYRlab2\1_1.html, 1_1.html, .html, 4852
+24.11.2023 20:33:41 - Действие: PrintFilesCount, Детали: Директория: D:\project, Количество файлов: 1
+24.11.2023 20:33:41 - Действие: PrintCreationTime, Детали: Директория: D:\project, Время создания: 28.08.2022 17:02:23
+24.11.2023 20:33:41 - Действие: ExecuteActions, Детали: Created directory: D:\MMEInspect
+24.11.2023 20:33:41 - Действие: ExecuteActions, Детали: Saved directory info to file: D:\MMEInspect\MMEdirinfo.txt

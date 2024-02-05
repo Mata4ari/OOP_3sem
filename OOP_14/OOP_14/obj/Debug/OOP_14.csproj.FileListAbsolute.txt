@@ -1,0 +1,8 @@
+D:\project\OOP_14\OOP_14\bin\Debug\OOP_14.exe.config
+D:\project\OOP_14\OOP_14\bin\Debug\OOP_14.exe
+D:\project\OOP_14\OOP_14\bin\Debug\OOP_14.pdb
+D:\project\OOP_14\OOP_14\obj\Debug\OOP_14.csproj.AssemblyReference.cache
+D:\project\OOP_14\OOP_14\obj\Debug\OOP_14.csproj.SuggestedBindingRedirects.cache
+D:\project\OOP_14\OOP_14\obj\Debug\OOP_14.csproj.CoreCompileInputs.cache
+D:\project\OOP_14\OOP_14\obj\Debug\OOP_14.exe
+D:\project\OOP_14\OOP_14\obj\Debug\OOP_14.pdb

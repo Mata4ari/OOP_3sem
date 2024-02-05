@@ -1,0 +1,8 @@
+D:\project\OOP_12\OOP_12\bin\Debug\OOP_12.exe.config
+D:\project\OOP_12\OOP_12\bin\Debug\OOP_12.exe
+D:\project\OOP_12\OOP_12\bin\Debug\OOP_12.pdb
+D:\project\OOP_12\OOP_12\obj\Debug\OOP_12.csproj.AssemblyReference.cache
+D:\project\OOP_12\OOP_12\obj\Debug\OOP_12.csproj.SuggestedBindingRedirects.cache
+D:\project\OOP_12\OOP_12\obj\Debug\OOP_12.csproj.CoreCompileInputs.cache
+D:\project\OOP_12\OOP_12\obj\Debug\OOP_12.exe
+D:\project\OOP_12\OOP_12\obj\Debug\OOP_12.pdb
